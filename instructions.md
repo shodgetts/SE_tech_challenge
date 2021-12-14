@@ -13,3 +13,5 @@ For this simple challenge, we would like you to use the Stream Feeds API to fetc
 3. Lean on the [documentation](https://getstream.io/activity-feeds/docs/node/?language=javascript) or stephen if you need (stephen@getstream.io) 
 4. You will need an app key and secret, [sign up](https://getstream.io/try-for-free/) for Stream and create an app in the dashboard to generate these credentials
 5. You will also need a signed JWT (json web token) to add to your client-side code, you can generate one [here](https://getstream.io/chat/docs/node/token_generator/?language=javascript) with your chosen user_id. Or, you can print it from the provided server-side script.
+
+Once you are done, please upload your file to a GitHub repository or send it to Stephen in a zipped up file :) 
